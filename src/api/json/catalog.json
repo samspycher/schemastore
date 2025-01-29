@@ -4459,7 +4459,7 @@
     {
       "name": "Rattler-build",
       "description": "Rattler-build recipe",
-      "fileMatch": ["recipe.yaml", "recipe.yml"],
+      "fileMatch": ["rattler.yaml", "rattler.yml"],
       "url": "https://raw.githubusercontent.com/prefix-dev/recipe-format/main/schema.json"
     },
     {
